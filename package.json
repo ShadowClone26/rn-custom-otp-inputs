@@ -1,0 +1,31 @@
+{
+  "name": "rn-custom-otp-inputs",
+  "version": "1.0.1",
+  "description": "This is custom OTP input library.Fully customizable and with unlimited number of inputs.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowClone26/rn-custom-otp-inputs.git"
+  },
+  "keywords": [
+    "otp-input",
+    "unlimited-input",
+    "react-native",
+    "react",
+    "otp",
+    "input"
+  ],
+  "author": "Aditya Thummar (aka shadowClone26)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadowClone26/rn-custom-otp-inputs/issues"
+  },
+  "homepage": "https://github.com/ShadowClone26/rn-custom-otp-inputs#readme",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.8"
+  }
+}
